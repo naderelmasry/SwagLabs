@@ -1,0 +1,12 @@
+{
+  "homeUrl": "https://www.saucedemo.com/inventory.html",
+  "loginPageUrl": "https://www.saucedemo.com/",
+  "standardUsername": "standard_user",
+  "password": "secret_sauce",
+  "firstname": "nader",
+  "lastname": "elmasry",
+  "postalCode": "001",
+  "errorMessage_missingFirstName": "Error: First Name is required",
+  "errorMessage_missingLastName": "Error: Last Name is required",
+  "errorMessage_missingPostalCode": "Error: Postal Code is required"
+}

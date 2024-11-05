@@ -1,0 +1,1 @@
+{"uuid":"dc6ca9db-2a2e-4e2b-8abc-8f43df241e4f","name":"AddProductTestCases.quit","children":["0b22a063-2f27-49be-9080-7fa23ae87929"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1730031179775,"stop":1730031180274}],"start":1730031179775,"stop":1730031180274}

@@ -1,0 +1,10 @@
+{
+  "homeUrl": "https://www.saucedemo.com/inventory.html",
+  "loginPageUrl": "https://www.saucedemo.com/",
+  "standardUsername": "standard_user",
+  "lockedUsername": "locked_out_user",
+  "invalidUsername": "error_userww",
+  "password": "secret_sauce",
+  "errorMessage_LockedUser":"Epic sadface: Sorry, this user has been locked out.",
+  "errorMessage_invalidUser": "Epic sadface: Username and password do not match any user in this service"
+  }
