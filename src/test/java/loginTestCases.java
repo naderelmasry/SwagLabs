@@ -34,7 +34,7 @@ public class loginTestCases {
         Assert.assertEquals(driver.getCurrentUrl(),Utility.getTestData("loginTestData.json","homeUrl"));
     }
 
-    @Description("Verify the locked user can't be logged")
+    @Description("Verify the locked_user can't be logged")
     @Test
     public void theLockedUserCantBeLogged() throws IOException {
         loginObj.enterUserName(Utility.getTestData(loginPath,"lockedUsername"));
